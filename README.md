@@ -1,6 +1,6 @@
 # Fog::DNSMadeEasy
 
-[![Build Status](https://travis-ci.org/fog/fog-dnsmadeeasy.svg?branch=master)](https://travis-ci.org/fog/fog-dnsmadeeasy)
+[![Build Status](https://travis-ci.org/raravena80/fog-dnsmadeeasy.svg?branch=master)](https://travis-ci.org/raravena80/fog-dnsmadeeasy)
 
 
 ## API Version
