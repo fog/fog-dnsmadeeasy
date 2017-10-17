@@ -1,5 +1,6 @@
 begin
-  require 'SimpleCov'
+  require 'simplecov'
+  SimpleCov.start
 rescue LoadError => e
   $stderr.puts "not recording test coverage: #{e.inspect}"
 end
