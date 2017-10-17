@@ -1,6 +1,6 @@
 # Fog::DNSMadeEasy
 
-[![Build Status](https://travis-ci.org/fog/fog-dnsmadeeasy.svg?branch=master)](https://travis-ci.org/fog/fog-dnsmadeeasy)
+[![Build Status](https://travis-ci.org/fog/fog-dnsmadeeasy.svg?branch=master)](https://travis-ci.org/fog/fog-dnsmadeeasy) [![MIT Licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/fog/fog-dnsmadeeasy/master/LICENSE.md)
 
 
 ## API Version
